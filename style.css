@@ -55,6 +55,10 @@ header{
 .titulo{
     font-size: 30px;
     text-align: center;
+    text-transform: capitalize;
+}
+.contenido{
+    text-align: justify;
 }
 
 @media screen and (max-width:500px) {
